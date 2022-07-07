@@ -11,7 +11,7 @@
     "build-artifacts": "bash build_artifacts.sh"
   },
   "dependencies": {
-    "@terra-money/terra.js": "2.0.14",
+    "@terra-money/terra.js": "2.1.23",
     "bignumber.js": "^9.0.1",
     "dotenv": "^8.2.0",
     "ts-custom-error": "^3.2.0"
