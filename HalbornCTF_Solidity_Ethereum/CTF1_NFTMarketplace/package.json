@@ -23,7 +23,7 @@
   "dependencies": {
     "@chainlink/contracts": "^0.1.9",
     "@metamask/detect-provider": "^1.2.0",
-    "@nomiclabs/hardhat-etherscan": "^2.1.4",
+    "@nomiclabs/hardhat-etherscan": "^3.0.2",
     "@openzeppelin/contracts": "^4.4.0-rc.1",
     "@openzeppelin/hardhat-upgrades": "^1.9.0",
     "csv": "^5.5.3",
